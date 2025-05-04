@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "train_eval_stage_2.py", line 85, in <module>
+    main()
+  File "train_eval_stage_2.py", line 40, in main
+    svc    = LinearSVC(dual=False,
+TypeError: __init__() got an unexpected keyword argument 'warm_start'

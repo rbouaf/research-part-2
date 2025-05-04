@@ -1,0 +1,43 @@
+cuDNN enabled: True
+CUDA: 11.1
+cuDNN: 8005
+GPU: NVIDIA RTX A5000
+Loading checkpoint from classifiers2/checkpoint_latest.pth
+Checkpoint saved at epoch 49, iteration 1616000
+Checkpoint saved at epoch 49, iteration 1617000
+Checkpoint saved at epoch 49, iteration 1618000
+Checkpoint saved at epoch 49, iteration 1619000
+Checkpoint saved at epoch 49, iteration 1620000
+Checkpoint saved at epoch 49, iteration 1621000
+Checkpoint saved at epoch 49, iteration 1622000
+Checkpoint saved at epoch 49, iteration 1623000
+Checkpoint saved at epoch 49, iteration 1624000
+Checkpoint saved at epoch 49, iteration 1625000
+Checkpoint saved at epoch 49, iteration 1626000
+Checkpoint saved at epoch 49, iteration 1627000
+Checkpoint saved at epoch 49, iteration 1628000
+Checkpoint saved at epoch 49, iteration 1629000
+Checkpoint saved at epoch 49, iteration 1630000
+Checkpoint saved at epoch 49, iteration 1631000
+Checkpoint saved at epoch 49, iteration 1632000
+Checkpoint saved at epoch 49, iteration 1633000
+Checkpoint saved at epoch 49, iteration 1634000
+Checkpoint saved at epoch 49, iteration 1635000
+Checkpoint saved at epoch 49, iteration 1636000
+Checkpoint saved at epoch 49, iteration 1637000
+Checkpoint saved at epoch 49, iteration 1638000
+Checkpoint saved at epoch 49, iteration 1639000
+Checkpoint saved at epoch 49, iteration 1640000
+Checkpoint saved at epoch 49, iteration 1641000
+Checkpoint saved at epoch 49, iteration 1642000
+Checkpoint saved at epoch 49, iteration 1643000
+Checkpoint saved at epoch 49, iteration 1644000
+Checkpoint saved at epoch 49, iteration 1645000
+Checkpoint saved at epoch 49, iteration 1646000
+Checkpoint saved at epoch 49, iteration 1647000
+Checkpoint saved at epoch 49, iteration 1648000
+Checkpoint saved at epoch 49, iteration 1649000
+Checkpoint saved at epoch 49, iteration 1650000
+Checkpoint saved at epoch 49, iteration 1651000
+Checkpoint saved at epoch 49, iteration 1652000
+Epoch 49 completed, checkpoint saved.

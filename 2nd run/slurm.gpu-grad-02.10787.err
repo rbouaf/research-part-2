@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "og_train_eval_stage_2 copy.py", line 75, in <module>
+    main()
+  File "og_train_eval_stage_2 copy.py", line 52, in main
+    X_train, y_train, X_test, y_test = load_and_diagnose()
+  File "og_train_eval_stage_2 copy.py", line 37, in load_and_diagnose
+    raise RuntimeError("No training features found! Check your stage_1_features.pickle")
+RuntimeError: No training features found! Check your stage_1_features.pickle

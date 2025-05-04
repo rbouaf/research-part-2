@@ -1,0 +1,102 @@
+iter  1 act 2.626e+05 pre 2.464e+05 delta 7.115e-02 f 6.748e+05 |g| 9.518e+06 CG   4
+iter  2 act 2.834e+04 pre 2.423e+04 delta 7.115e-02 f 4.122e+05 |g| 1.919e+06 CG   6
+cg reaches trust region boundary
+iter  3 act 6.708e+03 pre 5.938e+03 delta 8.308e-02 f 3.838e+05 |g| 6.041e+05 CG   9
+cg reaches trust region boundary
+iter  4 act 1.777e+03 pre 1.643e+03 delta 9.423e-02 f 3.771e+05 |g| 1.743e+05 CG   9
+cg reaches trust region boundary
+iter  5 act 8.640e+02 pre 8.314e+02 delta 9.831e-02 f 3.754e+05 |g| 6.889e+04 CG  11
+cg reaches trust region boundary
+iter  6 act 5.788e+02 pre 5.718e+02 delta 1.029e-01 f 3.745e+05 |g| 4.323e+04 CG  14
+cg reaches trust region boundary
+iter  7 act 3.691e+02 pre 3.622e+02 delta 1.054e-01 f 3.739e+05 |g| 2.447e+04 CG  15
+cg reaches trust region boundary
+iter  8 act 2.601e+02 pre 2.607e+02 delta 1.069e-01 f 3.735e+05 |g| 1.943e+04 CG  18
+cg reaches trust region boundary
+iter  9 act 1.866e+02 pre 1.861e+02 delta 1.117e-01 f 3.733e+05 |g| 1.268e+04 CG  20
+cg reaches trust region boundary
+iter 10 act 1.335e+02 pre 1.326e+02 delta 1.165e-01 f 3.731e+05 |g| 8.108e+03 CG  22
+cg reaches trust region boundary
+iter 11 act 9.855e+01 pre 9.876e+01 delta 1.205e-01 f 3.730e+05 |g| 6.271e+03 CG  26
+cg reaches trust region boundary
+iter 12 act 7.426e+01 pre 7.357e+01 delta 1.253e-01 f 3.729e+05 |g| 9.305e+03 CG  31
+cg reaches trust region boundary
+iter 13 act 5.612e+01 pre 5.612e+01 delta 1.299e-01 f 3.728e+05 |g| 3.507e+03 CG  34
+cg reaches trust region boundary
+iter 14 act 4.435e+01 pre 4.530e+01 delta 1.299e-01 f 3.727e+05 |g| 3.972e+03 CG  38
+cg reaches trust region boundary
+iter 15 act 3.918e+01 pre 3.893e+01 delta 1.308e-01 f 3.727e+05 |g| 3.929e+03 CG  43
+cg reaches trust region boundary
+iter 16 act 3.464e+01 pre 3.452e+01 delta 1.349e-01 f 3.727e+05 |g| 3.103e+03 CG  46
+cg reaches trust region boundary
+iter 17 act 2.924e+01 pre 2.928e+01 delta 1.350e-01 f 3.726e+05 |g| 2.540e+03 CG  51
+cg reaches trust region boundary
+iter 18 act 2.706e+01 pre 2.714e+01 delta 1.375e-01 f 3.726e+05 |g| 2.793e+03 CG  54
+cg reaches trust region boundary
+iter 19 act 2.424e+01 pre 2.427e+01 delta 1.406e-01 f 3.726e+05 |g| 2.738e+03 CG  57
+cg reaches trust region boundary
+iter 20 act 2.227e+01 pre 2.243e+01 delta 1.443e-01 f 3.725e+05 |g| 1.890e+03 CG  59
+cg reaches trust region boundary
+iter 21 act 2.080e+01 pre 2.071e+01 delta 1.512e-01 f 3.725e+05 |g| 1.707e+03 CG  64
+cg reaches trust region boundary
+iter 22 act 1.832e+01 pre 1.848e+01 delta 1.513e-01 f 3.725e+05 |g| 1.575e+03 CG  68
+cg reaches trust region boundary
+iter 23 act 1.740e+01 pre 1.751e+01 delta 1.513e-01 f 3.725e+05 |g| 1.985e+03 CG  73
+cg reaches trust region boundary
+iter 24 act 1.616e+01 pre 1.599e+01 delta 1.548e-01 f 3.725e+05 |g| 2.015e+03 CG  76
+cg reaches trust region boundary
+iter 25 act 1.357e+01 pre 1.424e+01 delta 1.548e-01 f 3.724e+05 |g| 3.033e+03 CG  80
+cg reaches trust region boundary
+iter 26 act 1.365e+01 pre 1.391e+01 delta 1.548e-01 f 3.724e+05 |g| 2.305e+03 CG  85
+cg reaches trust region boundary
+iter 27 act 1.239e+01 pre 1.248e+01 delta 1.561e-01 f 3.724e+05 |g| 1.343e+03 CG  88
+cg reaches trust region boundary
+iter 28 act 1.050e+01 pre 1.111e+01 delta 1.561e-01 f 3.724e+05 |g| 1.482e+03 CG  91
+cg reaches trust region boundary
+iter 29 act 1.082e+01 pre 1.111e+01 delta 1.561e-01 f 3.724e+05 |g| 1.338e+03 CG  96
+cg reaches trust region boundary
+iter 30 act 9.874e+00 pre 9.946e+00 delta 1.561e-01 f 3.724e+05 |g| 2.153e+03 CG  98
+cg reaches trust region boundary
+iter 31 act 8.322e+00 pre 9.205e+00 delta 1.561e-01 f 3.724e+05 |g| 2.045e+03 CG 101
+cg reaches trust region boundary
+iter 32 act 9.215e+00 pre 9.365e+00 delta 1.561e-01 f 3.724e+05 |g| 2.549e+03 CG 105
+cg reaches trust region boundary
+iter 33 act 6.879e+00 pre 8.086e+00 delta 1.561e-01 f 3.724e+05 |g| 1.060e+03 CG 109
+cg reaches trust region boundary
+iter 34 act 8.586e+00 pre 8.579e+00 delta 1.565e-01 f 3.723e+05 |g| 2.313e+03 CG 115
+cg reaches trust region boundary
+iter 35 act 6.356e+00 pre 7.114e+00 delta 1.565e-01 f 3.723e+05 |g| 1.227e+03 CG 116
+cg reaches trust region boundary
+iter 36 act 7.484e+00 pre 7.488e+00 delta 1.582e-01 f 3.723e+05 |g| 1.632e+03 CG 120
+cg reaches trust region boundary
+iter 37 act 5.478e+00 pre 6.490e+00 delta 1.582e-01 f 3.723e+05 |g| 8.197e+02 CG 121
+cg reaches trust region boundary
+iter 38 act 7.169e+00 pre 7.176e+00 delta 1.608e-01 f 3.723e+05 |g| 1.737e+03 CG 126
+cg reaches trust region boundary
+iter 39 act 4.464e+00 pre 5.860e+00 delta 1.608e-01 f 3.723e+05 |g| 7.142e+02 CG 127
+cg reaches trust region boundary
+iter 40 act -5.161e+00 pre 7.103e+00 delta 5.885e-02 f 3.723e+05 |g| 2.027e+03 CG 132
+cg reaches trust region boundary
+iter 40 act 2.680e+00 pre 4.516e+00 delta 4.187e-02 f 3.723e+05 |g| 2.027e+03 CG  82
+iter 41 act 1.876e+00 pre 1.876e+00 delta 4.187e-02 f 3.723e+05 |g| 2.987e+03 CG  14
+Train paths total: 674784
+ → features found: 674782, missing: 2
+  Missing train (first 10): ['imgs/left/Welfare/greenleft.org.au/2155_324.jpg', 'imgs/left/black lives matter/change.org/6356_132.jpg']
+Test  paths total: 75148
+ → features found: 75148, missing: 0
+
+=== Fitting SVM on train data ===
+[LibLinear]
+=== Evaluating on test data ===
+              precision    recall  f1-score   support
+
+        left      0.703     0.705     0.704     42392
+       right      0.617     0.614     0.615     32756
+
+    accuracy                          0.666     75148
+   macro avg      0.660     0.660     0.660     75148
+weighted avg      0.665     0.666     0.665     75148
+
+Accuracy: 0.6655266939905253
+
+Saved final model to classifier.pickle

@@ -1,0 +1,5 @@
+cuDNN enabled: True
+CUDA: 11.1
+cuDNN: 8005
+GPU: NVIDIA RTX A5000
+Loading checkpoint from classifiers/checkpoint_latest.pth

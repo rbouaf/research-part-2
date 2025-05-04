@@ -1,0 +1,5 @@
+Train paths total: 674784
+ → features found: 0, missing: 674784
+  Missing train (first 10): ['imgs/right/unemployment/theconservativetreehouse.com/2690_517.jpg', 'imgs/right/lgbt/nationalreview.com/9386_30.jpg', 'imgs/right/Welfare/newsmax.com/5872_354.jpg', 'imgs/right/Gun Control/ammoland.com/8558_199.jpg', 'imgs/right/Climate Change/legalinsurrection.com/792_704.jpg', 'imgs/right/Climate Change/theblaze.com/335_225.jpg', 'imgs/left/isis/thelondoneconomic.com/1826_163.jpg', 'imgs/left/Gun Control/curvemag.com/2365_135.jpg', 'imgs/left/immigration/thelondoneconomic.com/8809_578.jpg', 'imgs/left/racism/popularresistance.org/5657_722.jpg']
+Test  paths total: 75148
+ → features found: 75148, missing: 0

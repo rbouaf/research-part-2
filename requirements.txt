@@ -1,0 +1,17 @@
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233721170/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1701735466804/work
+Pillow==6.2.1
+protobuf==3.20.1
+scikit-learn==0.22.1
+scipy @ file:///tmp/build/80754af9/scipy_1616703172749/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboardX==1.9
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.40.2
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work

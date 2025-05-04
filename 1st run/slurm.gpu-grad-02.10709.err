@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "extract_features.py", line 125, in <module>
+    main()
+  File "extract_features.py", line 90, in main
+    feature_dict = pickle.load(open(checkpoint_file, 'rb'))
+_pickle.UnpicklingError: pickle data was truncated

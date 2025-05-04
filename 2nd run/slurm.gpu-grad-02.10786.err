@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "og_train_eval_stage_2 copy.py", line 81, in <module>
+    main()
+  File "og_train_eval_stage_2 copy.py", line 24, in main
+    train_features = np.stack(
+  File "<__array_function__ internals>", line 5, in stack
+  File "/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/numpy/core/shape_base.py", line 423, in stack
+    raise ValueError('need at least one array to stack')
+ValueError: need at least one array to stack

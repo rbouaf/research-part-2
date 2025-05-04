@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "extract_features.py", line 125, in <module>
+    main()
+  File "extract_features.py", line 81, in main
+    img_model.load_state_dict(torch.load(sys.argv[1]), strict=False)
+  File "/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/torch/serialization.py", line 579, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/classifiers2/img_model_49.pth'

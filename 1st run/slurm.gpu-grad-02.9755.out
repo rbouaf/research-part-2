@@ -1,0 +1,82 @@
+cuDNN enabled: True
+CUDA: 11.1
+cuDNN: 8005
+GPU: NVIDIA RTX A5000
+Loading checkpoint from classifiers/checkpoint_latest.pth
+Checkpoint saved at epoch 44, iteration 1266000
+Checkpoint saved at epoch 44, iteration 1267000
+Checkpoint saved at epoch 44, iteration 1268000
+Checkpoint saved at epoch 44, iteration 1269000
+Checkpoint saved at epoch 44, iteration 1270000
+Checkpoint saved at epoch 44, iteration 1271000
+Checkpoint saved at epoch 44, iteration 1272000
+Checkpoint saved at epoch 44, iteration 1273000
+Checkpoint saved at epoch 44, iteration 1274000
+Checkpoint saved at epoch 44, iteration 1275000
+Checkpoint saved at epoch 44, iteration 1276000
+Checkpoint saved at epoch 44, iteration 1277000
+Checkpoint saved at epoch 44, iteration 1278000
+Checkpoint saved at epoch 44, iteration 1279000
+Checkpoint saved at epoch 44, iteration 1280000
+Checkpoint saved at epoch 44, iteration 1281000
+Checkpoint saved at epoch 44, iteration 1282000
+Checkpoint saved at epoch 44, iteration 1283000
+Checkpoint saved at epoch 44, iteration 1284000
+Checkpoint saved at epoch 44, iteration 1285000
+Checkpoint saved at epoch 44, iteration 1286000
+Checkpoint saved at epoch 44, iteration 1287000
+Checkpoint saved at epoch 44, iteration 1288000
+Checkpoint saved at epoch 44, iteration 1289000
+Checkpoint saved at epoch 44, iteration 1290000
+Checkpoint saved at epoch 44, iteration 1291000
+Checkpoint saved at epoch 44, iteration 1292000
+Checkpoint saved at epoch 44, iteration 1293000
+Checkpoint saved at epoch 44, iteration 1294000
+Checkpoint saved at epoch 44, iteration 1295000
+Checkpoint saved at epoch 44, iteration 1296000
+Checkpoint saved at epoch 44, iteration 1297000
+Checkpoint saved at epoch 44, iteration 1298000
+Checkpoint saved at epoch 44, iteration 1299000
+Checkpoint saved at epoch 44, iteration 1300000
+Checkpoint saved at epoch 44, iteration 1301000
+Checkpoint saved at epoch 44, iteration 1302000
+Epoch 44 completed, checkpoint saved.
+Checkpoint saved at epoch 45, iteration 1303000
+Checkpoint saved at epoch 45, iteration 1304000
+Checkpoint saved at epoch 45, iteration 1305000
+Checkpoint saved at epoch 45, iteration 1306000
+Checkpoint saved at epoch 45, iteration 1307000
+Checkpoint saved at epoch 45, iteration 1308000
+Checkpoint saved at epoch 45, iteration 1309000
+Checkpoint saved at epoch 45, iteration 1310000
+Checkpoint saved at epoch 45, iteration 1311000
+Checkpoint saved at epoch 45, iteration 1312000
+Checkpoint saved at epoch 45, iteration 1313000
+Checkpoint saved at epoch 45, iteration 1314000
+Checkpoint saved at epoch 45, iteration 1315000
+Checkpoint saved at epoch 45, iteration 1316000
+Checkpoint saved at epoch 45, iteration 1317000
+Checkpoint saved at epoch 45, iteration 1318000
+Checkpoint saved at epoch 45, iteration 1319000
+Checkpoint saved at epoch 45, iteration 1320000
+Checkpoint saved at epoch 45, iteration 1321000
+Checkpoint saved at epoch 45, iteration 1322000
+Checkpoint saved at epoch 45, iteration 1323000
+Checkpoint saved at epoch 45, iteration 1324000
+Checkpoint saved at epoch 45, iteration 1325000
+Checkpoint saved at epoch 45, iteration 1326000
+Checkpoint saved at epoch 45, iteration 1327000
+Checkpoint saved at epoch 45, iteration 1328000
+Checkpoint saved at epoch 45, iteration 1329000
+Checkpoint saved at epoch 45, iteration 1330000
+Checkpoint saved at epoch 45, iteration 1331000
+Checkpoint saved at epoch 45, iteration 1332000
+Checkpoint saved at epoch 45, iteration 1333000
+Checkpoint saved at epoch 45, iteration 1334000
+Checkpoint saved at epoch 45, iteration 1335000
+Checkpoint saved at epoch 45, iteration 1336000
+Checkpoint saved at epoch 45, iteration 1337000
+Checkpoint saved at epoch 45, iteration 1338000
+Checkpoint saved at epoch 45, iteration 1339000
+Checkpoint saved at epoch 45, iteration 1340000
+Epoch 45 completed, checkpoint saved.

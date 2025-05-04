@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "og_train_eval_stage_2.py", line 37, in <module>
+    main()
+  File "og_train_eval_stage_2.py", line 17, in main
+    all_features = pickle.load(open('stage_1_features.pickle', 'rb'))
+_pickle.UnpicklingError: pickle data was truncated

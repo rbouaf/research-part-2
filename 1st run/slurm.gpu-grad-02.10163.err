@@ -1,0 +1,8 @@
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/torch/utils/data/dataloader.py:474: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Traceback (most recent call last):
+  File "extract_features.py", line 125, in <module>
+    main()
+  File "extract_features.py", line 81, in main
+    img_model.load_state_dict(torch.load(sys.argv[1]), strict=False)
+IndexError: list index out of range

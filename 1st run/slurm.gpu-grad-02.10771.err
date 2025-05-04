@@ -1,0 +1,10 @@
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.preprocessing.data module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.preprocessing. Anything that cannot be imported from sklearn.preprocessing is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/sklearn/base.py:313: UserWarning: Trying to unpickle estimator StandardScaler from version 0.19.2 when using version 0.22.1. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.svm.classes module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.svm. Anything that cannot be imported from sklearn.svm is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/sklearn/base.py:313: UserWarning: Trying to unpickle estimator LinearSVC from version 0.19.2 when using version 0.22.1. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
+/home/2022/rbouaf/.conda/envs/pytorch_1_3_1_env/lib/python3.8/site-packages/sklearn/base.py:313: UserWarning: Trying to unpickle estimator Pipeline from version 0.19.2 when using version 0.22.1. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
