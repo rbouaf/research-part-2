@@ -1,6 +1,6 @@
 All data and info and the paper is located at https://people.cs.pitt.edu/~chris/politics/
-You should really take a look at it. 
-You should redownload the code and you need to download the data from the original paper. Because it can't fit in this repo.
+<br> You need to redownload the code and you need to download the data from the original paper. Because it can't fit in this repo.
+
 Original Message from original paper:
 ```
 Images are contained in the imgs/ folder
