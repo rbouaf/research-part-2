@@ -1,7 +1,7 @@
 ### Reproducing and adapting a 2019 paper
 The original paper is by Christopher Thomas and Adriana Kovashka.
 <br> All data and info and the paper is located at https://people.cs.pitt.edu/~chris/politics/
-<br> You need to redownload the code and you need to download the data from the original paper. Because it can't fit in this repo.
+<br> You need to redownload the code and you need to download the data from the original paper (It's 130GB and thus can't fit in this repo).
 
 Original Message from original paper:
 ```
